@@ -1,6 +1,6 @@
 body {font: normal 12pt noto}
 
-@font-face {font-family: noto; src: url(../fonts/noto-sans.ttf)}
-@font-face {font-family: noto; src: url(../fonts/noto-sans-bold.ttf); font-weight: bold}
-@font-face {font-family: noto; src: url(../fonts/noto-sans-italic.ttf); font-style: italic}
-@font-face {font-family: noto; src: url(../fonts/noto-sans-bold-italic.ttf); font-style: italic; font-weight: bold}
+@font-face {font-family: noto; src: url(fonts/noto-sans.ttf)}
+@font-face {font-family: noto; src: url(fonts/noto-sans-bold.ttf); font-weight: bold}
+@font-face {font-family: noto; src: url(fonts/noto-sans-italic.ttf); font-style: italic}
+@font-face {font-family: noto; src: url(fonts/noto-sans-bold-italic.ttf); font-style: italic; font-weight: bold}
